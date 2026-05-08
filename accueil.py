@@ -8,13 +8,13 @@ st.set_page_config(page_title="MealMatch", layout="centered", initial_sidebar_st
 st.markdown(inject("""
 .block-container { max-width: 520px !important; padding: 56px 24px 80px !important; }
 .app-title { font-family:'DM Serif Display',serif; font-size:30px; font-weight:400; color:#1a1a1a; margin-bottom:6px; }
-.app-sub   { font-size:14px; color:#555; margin-bottom:48px; line-height:1.7; }
+.app-sub   { font-size:14px; color:#999; margin-bottom:48px; line-height:1.7; }
 .stRadio div[role="radiogroup"] label {
     font-size:13px !important; border:0.5px solid #e8e8e0; border-radius:20px;
-    padding:5px 14px !important; cursor:pointer; color:#222 !important; background:#fff;
+    padding:5px 14px !important; cursor:pointer; color:#555 !important; background:#fff;
 }
 .stRadio div[role="radiogroup"] label:has(input:checked) {
-    background:#FDFDFD !important; color:#fff !important; border-color:#1a1a1a !important;
+    background:#1a1a1a !important; color:#fff !important; border-color:#1a1a1a !important;
 }
 """), unsafe_allow_html=True)
 

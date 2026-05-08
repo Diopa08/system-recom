@@ -9,7 +9,7 @@ st.markdown(inject("""
 .block-container { max-width: 600px !important; padding: 48px 24px 80px !important; }
 
 .page-title { font-family:'DM Serif Display',serif; font-size:26px; font-weight:400; color:#1a1a1a; margin-bottom:6px; }
-.page-sub   { font-size:13px; color:#555; margin-bottom:36px; line-height:1.7; }
+.page-sub   { font-size:13px; color:#999; margin-bottom:36px; line-height:1.7; }
 
 .plat-row {
     display: flex;
@@ -20,7 +20,7 @@ st.markdown(inject("""
 }
 .plat-info { flex: 1; }
 .plat-nom  { font-size:15px; font-weight:500; color:#1a1a1a; margin-bottom:3px; }
-.plat-meta { font-size:11px; color:#666; }
+.plat-meta { font-size:11px; color:#bbb; }
 
 .stars-row { display:flex; gap:4px; }
 .star {
@@ -41,7 +41,7 @@ st.markdown(inject("""
 .compteur {
     text-align: center;
     font-size:12px;
-    color:#666;
+    color:#bbb;
     margin-bottom: 24px;
 }
 .compteur b { color:#1a1a1a; }
@@ -61,7 +61,7 @@ st.markdown(inject("""
 
 .skip-note {
     font-size: 11px;
-    color: #777;
+    color: #ccc;
     text-align: center;
     margin-top: 8px;
 }
@@ -159,7 +159,7 @@ for plat in candidats:
         # On injecte la couleur via un hack CSS ciblé
         stars_js += f"""
         [data-testid="stButton"][key="star_{mid}_{i}"] button {{
-            color:#222 !important;
+            color: {color} !important;
             background: none !important;
             border: none !important;
             font-size: 22px !important;
