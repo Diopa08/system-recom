@@ -11,10 +11,10 @@ st.markdown(inject("""
 .app-sub   { font-size:14px; color:#999; margin-bottom:48px; line-height:1.7; }
 .stRadio div[role="radiogroup"] label {
     font-size:13px !important; border:0.5px solid #e8e8e0; border-radius:20px;
-    padding:5px 14px !important; cursor:pointer; color:#555 !important; background:#fff;
+    padding:5px 14px !important; cursor:pointer; color:#555 !important; background:#fdfdfd;
 }
 .stRadio div[role="radiogroup"] label:has(input:checked) {
-    background:#1a1a1a !important; color:#fff !important; border-color:#1a1a1a !important;
+    background:#fdfdfd !important; color:#fff !important; border-color:#1a1a1a !important;
 }
 """), unsafe_allow_html=True)
 
