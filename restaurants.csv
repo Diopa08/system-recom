@@ -1,0 +1,24 @@
+resto_id,nom,cuisine,ville,latitude,longitude,note,prix,plats
+1,Le Cocotier,africaine,Cotonou,6.37,2.43,4.5,1,3|13|12|7|2|5
+2,Saveurs du Bénin,africaine,Cotonou,6.36,2.415,4.2,1,3|10|4|14|7|9
+3,Chez Maman,africaine,Cotonou,6.355,2.425,4.7,1,6|7|13|12|3|2
+4,La Teranga,africaine,Dakar,14.695,-17.45,4.6,1,9|12|6|1|2|7
+5,Chez Oumar,africaine,Dakar,14.7,-17.44,4.3,2,4|14|2|6|10|11
+6,African Queen,africaine,Abidjan,5.36,-4.01,4.4,2,10|7|13|6|1|5
+7,Le Baobab,africaine,Lomé,6.135,1.225,4.1,1,13|8|14|4|6|9
+8,Riad des Épices,méditerranéenne,Dakar,14.69,-17.445,4.5,2,22|19|17|20|23|16
+9,Les 1001 Nuits,méditerranéenne,Paris,48.86,2.345,4.3,2,20|22|17|16|23|21
+10,Marrakech,méditerranéenne,Paris,48.852,2.36,4.0,2,18|19|21|17|22|20
+11,Le Bistrot,française,Paris,48.858,2.35,4.4,2,26|24|28|27|25|29
+12,Café de Paris,française,Paris,48.865,2.34,4.1,2,26|29|24|27|28|25
+13,Au Bon Goût,française,Lyon,45.75,4.85,4.5,1,27|29|28|24|26|25
+14,Sakura,asiatique,Paris,48.862,2.348,4.6,2,35|38|31|34|36|32
+15,Tokyo Street,asiatique,Paris,48.855,2.355,4.2,2,36|30|34|33|39|38
+16,Curry House,asiatique,Abidjan,5.36,-4.005,4.3,1,38|33|32|35|39|31
+17,Taj Mahal,asiatique,Dakar,14.695,-17.448,4.1,2,32|34|38|39|33|31
+18,La Bella Italia,italienne,Paris,48.857,2.352,4.3,2,45|47|46
+19,Trattoria Roma,italienne,Lyon,45.748,4.848,4.5,2,46|47|45
+20,Fusion Express,internationale,Cotonou,6.365,2.42,4.0,1,49|48|50
+21,World Kitchen,internationale,Dakar,14.692,-17.446,4.2,1,49|48|50
+22,The Burger Spot,américaine,Abidjan,5.355,-4.008,4.1,1,44|41|43|40|42
+23,Tex-Mex House,américaine,Paris,48.863,2.342,3.9,2,42|40|41|44|43

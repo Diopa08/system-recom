@@ -1,0 +1,51 @@
+meal_id,nom,cuisine,allergenes,piment,saison
+1,Jollof Rice,africaine,,1,toutes
+2,Poulet DG,africaine,,2,toutes
+3,Thiéboudiène,africaine,poisson,1,toutes
+4,Ndolé,africaine,noix,1,toutes
+5,Mafé,africaine,arachides,2,toutes
+6,Yassa Poulet,africaine,,1,toutes
+7,Gboma Dessi,africaine,,2,toutes
+8,Sauce Graine,africaine,,2,toutes
+9,Alloco Poisson,africaine,poisson,1,toutes
+10,Fufu & Soupe,africaine,,2,toutes
+11,Egusi Soup,africaine,noix,2,toutes
+12,Kédjénou Poulet,africaine,,2,toutes
+13,Bœuf Braisé,africaine,,2,toutes
+14,Doro Wat,africaine,oeufs,3,toutes
+15,Injera & Tibs,africaine,gluten,2,toutes
+16,Couscous Agneau,méditerranéenne,gluten,1,toutes
+17,Tajine Poulet,méditerranéenne,,1,automne
+18,Shakshuka,méditerranéenne,oeufs,2,toutes
+19,Houmous & Pita,méditerranéenne,gluten|sésame,0,toutes
+20,Falafel,méditerranéenne,gluten|sésame,1,toutes
+21,Moussaka,méditerranéenne,gluten|lait|oeufs,1,automne
+22,Kebab,méditerranéenne,gluten,1,toutes
+23,Fattoush,méditerranéenne,gluten,0,été
+24,Ratatouille,française,,0,été
+25,Bœuf Bourguignon,française,gluten,0,hiver
+26,Quiche Lorraine,française,gluten|lait|oeufs,0,toutes
+27,Soupe à l'Oignon,française,gluten|lait,0,hiver
+28,Salade Niçoise,française,oeufs|poisson,0,été
+29,Bouillabaisse,française,poisson|crustacés,1,toutes
+30,Sushi Saumon,asiatique,poisson|soja,0,toutes
+31,Ramen,asiatique,gluten|soja|oeufs,1,hiver
+32,Curry Thaï,asiatique,noix|crustacés,3,toutes
+33,Pad Thaï,asiatique,gluten|noix|oeufs,2,toutes
+34,Biryani,asiatique,,2,toutes
+35,Butter Chicken,asiatique,lait,2,toutes
+36,Pho,asiatique,gluten|soja,1,toutes
+37,Bibimbap,asiatique,soja|oeufs,2,toutes
+38,Tom Yum,asiatique,crustacés|poisson,3,toutes
+39,Green Curry,asiatique,noix|crustacés|lait,3,toutes
+40,Burger BBQ,américaine,gluten|oeufs|lait,1,été
+41,Tacos,américaine,gluten|lait,2,toutes
+42,Chili Con Carne,américaine,,3,hiver
+43,Caesar Salad,américaine,gluten|oeufs|lait|poisson,0,été
+44,Paella,américaine,crustacés|poisson,1,été
+45,Pizza Margherita,italienne,gluten|lait,0,toutes
+46,Pasta Carbonara,italienne,gluten|oeufs|lait,0,toutes
+47,Risotto Parmesan,italienne,gluten|lait,0,toutes
+48,Buddha Bowl,internationale,soja|sésame,1,toutes
+49,Wrap Légumes,internationale,gluten,0,toutes
+50,Soupe Lentilles,internationale,,1,hiver
